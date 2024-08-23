@@ -16,14 +16,13 @@ int main() {
     // string s;
     // cin >> s;
     // for(auto& it: s) {
-    //     if(it == '.') return 0;
-    //         cout << it;
+    //     if(it == '.') break;
+    //     cout << it;
     // }   
 
 
 /*
     .cph file
-
 {
     "name":"B - Round Down",
     "group":"AtCoder - AtCoder Beginner Contest 196",
